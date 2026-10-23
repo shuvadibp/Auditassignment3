@@ -1,0 +1,162 @@
+{
+ "call_id": "CALL-054",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Elena Petrova",
+ "scenario": "motor_claim",
+ "date": "2026-09-22 14:53",
+ "duration_sec": 140,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Good afternoon, Orion Shield Insurance, Marcus speaking. How may I help you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I was in a car accident and I need to make a claim. I'm still quite shaken up, to be honest.",
+   "t": 6.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Right. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Can I take your full name and date of birth, please?",
+   "t": 15.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Elena Petrova, 6 March 1950.",
+   "t": 30.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 32.7
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's KD1 2PB.",
+   "t": 37.7
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 39.8
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Could you tell me exactly what happened, and when it happened?",
+   "t": 42.7
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "It was yesterday around half five, on the ring road near the retail park. A van pulled out and hit the side of my car.",
+   "t": 47.6
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thank you. Was anyone injured, and how extensive is the damage?",
+   "t": 58.6
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Thankfully nobody was hurt, but the passenger door and wing are badly dented and it's not really drivable.",
+   "t": 64.3
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Can I confirm the registration number of the vehicle?",
+   "t": 72.5
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "It's KZ24 RBK.",
+   "t": 77.1
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "Why does it take so long? Can't you just speed it up for me?",
+   "t": 79.8
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Well, you really should have read the policy documents when you bought it.",
+   "t": 85.9
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. We'll acknowledge your claim within 24 hours and the claims team will assess it within 3 working days, so you'll hear very quickly.",
+   "t": 92.2
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 104.0
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Thanks. Our team will be in touch about it.",
+   "t": 107.0
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 112.1
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've taken the details of your claim and passed it to the claims team.",
+   "t": 115.1
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 122.2
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 125.1
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 129.7
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 133.0
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 138.6
+  }
+ ],
+ "tags": []
+}

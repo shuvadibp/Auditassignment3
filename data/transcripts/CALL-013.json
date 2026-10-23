@@ -1,0 +1,182 @@
+{
+ "call_id": "CALL-013",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "Kwame Mensah",
+ "scenario": "home_claim",
+ "date": "2026-09-03 11:21",
+ "duration_sec": 146,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance you're speaking with daniel how can i help you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hello water is coming through my ceiling and i'm really worried about the damage",
+   "t": 7.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "i'm so sorry to hear that that must be really stressful can i take your full name and date of birth please",
+   "t": 13.2
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "kwame mensah 13 february 1989",
+   "t": 22.5
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "thank you that's you verified",
+   "t": 24.9
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you've had a water leak at home and you'd like to make a claim is that right",
+   "t": 27.3
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 36.8
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "could you tell me exactly what happened and when it happened",
+   "t": 39.3
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "um it started about an hour ago the pipe under the kitchen sink burst and water's gone across the whole floor",
+   "t": 44.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "thank you was anyone injured and how extensive is the damage",
+   "t": 53.2
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "so everyone's safe but the floor and the bottom of the cabinets are soaked and some electrics are close by",
+   "t": 58.7
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "um and can you confirm the address of the property",
+   "t": 67.5
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "it's 14 larch avenue",
+   "t": 72.5
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "thanks i've recorded all of that on your file",
+   "t": 74.9
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "will you definitely cover all of this",
+   "t": 78.9
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "uh honestly there's no way they'll refuse this it'll definitely be paid",
+   "t": 82.1
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "surely you can approve the repair costs right now though",
+   "t": 87.2
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "well you really should have read the policy documents when you bought it",
+   "t": 91.9
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "so sorry are you recording this call",
+   "t": 97.4
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "yes all our calls are recorded for quality and training",
+   "t": 100.3
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "let me explain what happens here because it's an emergency you can arrange an urgent repair yourself up to $500 without needing our approval first just keep every receipt",
+   "t": 104.9
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "right i see",
+   "t": 116.7
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "um thanks mr mensah i've logged your claim under reference clm-27179 and the home claims team will contact you about the repairs",
+   "t": 118.6
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "um okay thank you",
+   "t": 128.1
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 130.1
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 134.5
+  },
+  {
+   "n": 27,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance mr mensah have a good day",
+   "t": 138.0
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "uh thanks bye",
+   "t": 143.8
+  }
+ ],
+ "tags": [
+  "noisy_asr"
+ ]
+}

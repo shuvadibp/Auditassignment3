@@ -1,0 +1,156 @@
+{
+ "call_id": "CALL-018",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Chloe Dubois",
+ "scenario": "cancellation_request",
+ "date": "2026-09-02 16:37",
+ "duration_sec": 152,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Priya. How can I help you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'd like to cancel my car policy. I found something cheaper and, frankly, I'm annoyed about the price rise. I'm worried I'll lose a lot of money.",
+   "t": 13.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm so sorry to hear that, that must be really stressful. Can I take your full name and date of birth, please?",
+   "t": 24.2
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Chloe Dubois, 24 January 1951.",
+   "t": 33.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, Chloe, that's you verified.",
+   "t": 36.2
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to cancel your car policy. Is that right?",
+   "t": 40.0
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 47.2
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Can I confirm which policy this is, car or home?",
+   "t": 50.0
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The car insurance.",
+   "t": 55.3
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 58.4
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just waive the fee? It seems unfair.",
+   "t": 71.4
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 75.4
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 87.8
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "I can't promise how it will be priced, the system will calculate it and you'll get it in writing.",
+   "t": 92.5
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. As it's past the 14-day cooling-off period, the refund is pro-rata, which just means you get back the unused part of your premium, less a $25 administration fee.",
+   "t": 100.8
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 115.2
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Thanks, Chloe. I've logged your cancellation request under reference REQ-66160, and our policy services team will process it and confirm in writing.",
+   "t": 117.8
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 127.4
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your cancellation request.",
+   "t": 129.5
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 133.0
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 135.7
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 140.4
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Chloe. Have a good day!",
+   "t": 143.4
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 149.3
+  }
+ ],
+ "tags": []
+}

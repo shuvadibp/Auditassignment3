@@ -1,0 +1,182 @@
+{
+ "call_id": "CALL-005",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "Ananya Iyer",
+ "scenario": "dd_change",
+ "date": "2026-10-15 10:36",
+ "duration_sec": 176,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello and thank you for calling Orion Shield Insurance. My name's Daniel. What can I do for you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I need to move my direct debit date because my salary date has changed, and I'm worried about missing a payment again. My policy number is OS-386926.",
+   "t": 8.7
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Ah, that sounds really frustrating. Let's see what we can do. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 20.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Ananya Iyer.",
+   "t": 40.4
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 43.5
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to move your direct debit date. Is that right?",
+   "t": 46.9
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 54.0
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Which date would you like to move it to?",
+   "t": 56.4
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The 28th if possible.",
+   "t": 60.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 63.0
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "While I'm on, I missed last month's payment. Can I pay it now by card?",
+   "t": 67.2
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "For your security I can't take card details over the phone. I can transfer you to our automated secure payment line, or you can pay through the online portal.",
+   "t": 73.9
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "The automated line is fine, thanks.",
+   "t": 85.7
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 89.0
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just change it today? It's only a date.",
+   "t": 102.4
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 107.2
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "So it definitely won't affect my payment record?",
+   "t": 120.5
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "There's no way this will cause any problems, you can rely on that.",
+   "t": 124.3
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 130.7
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 138.7
+  },
+  {
+   "n": 21,
+   "speaker": "SYSTEM",
+   "text": "[On hold 0:34]",
+   "t": 141.2
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Thank you for holding, I appreciate your patience. I can change it right now and it'll apply from tomorrow's collection.",
+   "t": 144.1
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 152.6
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Thanks, Ananya. I've logged the change under reference REQ-99398, and our billing team will confirm the new date in writing.",
+   "t": 155.7
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 164.3
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 166.9
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 171.8
+  },
+  {
+   "n": 28,
+   "speaker": "AGENT",
+   "text": "Okay, bye then.",
+   "t": 174.3
+  }
+ ],
+ "tags": [
+  "hold"
+ ]
+}

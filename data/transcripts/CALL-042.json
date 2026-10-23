@@ -1,0 +1,212 @@
+{
+ "call_id": "CALL-042",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Imran Rahman",
+ "scenario": "motor_claim",
+ "date": "2026-10-09 12:22",
+ "duration_sec": 210,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello, this call is recorded for training and quality purposes. What can I do for you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hello, someone reversed into my parked car and drove off. I'm really upset, the car is practically new. My policy number is OS-405068.",
+   "t": 7.6
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm really sorry you're going through this, Imran, I can imagine how worrying that is. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 17.6
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Imran Rahman.",
+   "t": 31.4
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, Imran, that's you verified.",
+   "t": 33.5
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "I should tell you I lost my job recently, so money is really tight at the moment.",
+   "t": 37.0
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "I'm sorry to hear that. Anyway, back to your policy.",
+   "t": 44.4
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've had an accident in your car and you'd like to make a claim. Is that right?",
+   "t": 49.2
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 58.5
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Could you tell me exactly what happened, and when it happened?",
+   "t": 61.0
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "It was yesterday around half five, on the ring road near the retail park. A van pulled out and hit the side of my car.",
+   "t": 66.2
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Thank you. Was anyone injured, and how extensive is the damage?",
+   "t": 77.3
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Thankfully nobody was hurt, but the passenger door and wing are badly dented and it's not really drivable.",
+   "t": 82.7
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Can I confirm the registration number of the vehicle?",
+   "t": 91.1
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "It's LY15 DFK.",
+   "t": 95.2
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 97.4
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Why does it take so long? Can't you just speed it up for me?",
+   "t": 101.5
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 107.9
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Will my claim definitely be approved, do you think?",
+   "t": 120.2
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "I can't promise an outcome as the claims team assesses every claim, but this is the kind of event your policy is designed for.",
+   "t": 124.9
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Just so you know, any settlement will be subject to the policy excess and the indemnity limit, and we may pursue subrogation against the other party's insurer.",
+   "t": 135.7
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 146.6
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 151.4
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. What happens next is that we'll acknowledge your claim within 24 hours, and the claims team will assess it within 10 working days of receiving all your supporting documents.",
+   "t": 156.7
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 171.6
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "Thanks, Imran. I've logged your claim under reference CLM-73112, and the claims team will contact you to take things forward.",
+   "t": 173.8
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 182.3
+  },
+  {
+   "n": 28,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've taken the details of your claim and passed it to the claims team.",
+   "t": 184.8
+  },
+  {
+   "n": 29,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 191.8
+  },
+  {
+   "n": 30,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 193.9
+  },
+  {
+   "n": 31,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 198.6
+  },
+  {
+   "n": 32,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Imran. Have a good day!",
+   "t": 201.5
+  },
+  {
+   "n": 33,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 207.1
+  }
+ ],
+ "tags": [
+  "vulnerable"
+ ]
+}

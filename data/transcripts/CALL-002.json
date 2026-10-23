@@ -1,0 +1,164 @@
+{
+ "call_id": "CALL-002",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Ananya Iyer",
+ "scenario": "complaint_delay",
+ "date": "2026-10-11 09:54",
+ "duration_sec": 155,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello and thank you for calling Orion Shield Insurance. My name's Priya. What can I do for you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I've been waiting weeks for an update on my claim. This is unacceptable and I'd like to complain.",
+   "t": 13.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "That sounds like a really tough few days. Let's get this sorted out for you. I can see your policy here, it's comprehensive cover and it's due for renewal next month. Just to check I'm speaking to the right person, can I take your date of birth and postcode?",
+   "t": 21.4
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "1 May 1994, TK5 7LA.",
+   "t": 41.5
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's fine.",
+   "t": 44.7
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've been waiting weeks for an update on your claim and you'd like to complain. Is that right?",
+   "t": 47.5
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 57.0
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "I'm really sorry about the delay. I can log a formal complaint, which we acknowledge within 3 working days, or arrange for a supervisor to call you back within 24 hours. Which would you prefer?",
+   "t": 58.9
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "A supervisor callback, please.",
+   "t": 73.7
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Can you tell me roughly when you made the claim?",
+   "t": 76.2
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "About three weeks ago.",
+   "t": 81.2
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 84.2
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Will I get some compensation for this?",
+   "t": 89.0
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "I can't promise a particular outcome, but your complaint will be looked at properly.",
+   "t": 92.3
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Just so you know, you'll pay an excess, which is the part of any claim you cover yourself, and if someone else was at fault we may recover the costs from their insurer.",
+   "t": 98.1
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. Claims are normally acknowledged within 24 hours and assessed within 10 working days once we have all the documents.",
+   "t": 111.9
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Right, I see.",
+   "t": 122.4
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Thanks. Our team will be in touch about it.",
+   "t": 125.4
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 129.5
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your complaint and chased your claim.",
+   "t": 132.1
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 136.9
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 139.0
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 143.3
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 146.6
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 152.3
+  }
+ ],
+ "tags": [
+  "complaint"
+ ]
+}

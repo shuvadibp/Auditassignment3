@@ -1,0 +1,159 @@
+{
+ "call_id": "CALL-058",
+ "agent_id": "AG04",
+ "agent_name": "Sofia Alvarez",
+ "customer_name": "Tomas Herrera",
+ "scenario": "dd_change",
+ "date": "2026-10-12 10:03",
+ "duration_sec": 119,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello? Go ahead.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'm phoning for my father. He needs the direct debit date moving and I'm worried about him missing a payment.",
+   "t": 2.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "That sounds like a really tough few days. Let's get this sorted out for you. Can I just check, are you the policyholder?",
+   "t": 11.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "No, it's my father's policy. He's at work today so I said I'd call.",
+   "t": 20.6
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you're calling for your father to move a direct debit date. Is that right?",
+   "t": 26.8
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 35.6
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Can you confirm his date of birth and postcode?",
+   "t": 37.7
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "19 August 1979, AM8 3ZA.",
+   "t": 41.9
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "That matches, thank you. So I can see the policy renews next month at $482 a year.",
+   "t": 44.7
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just change it today? It's only a date.",
+   "t": 51.8
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "Look, as I already said, it's all in the terms and conditions. I don't know how else to explain it.",
+   "t": 57.0
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 65.5
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 73.9
+  },
+  {
+   "n": 14,
+   "speaker": "SYSTEM",
+   "text": "[On hold 1:16]",
+   "t": 76.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Right, so in general, a direct debit date change needs 5 working days' notice.",
+   "t": 79.5
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Right, I see.",
+   "t": 86.2
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Thanks. Someone will get back to you.",
+   "t": 88.2
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 91.4
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've requested the change to your direct debit date.",
+   "t": 94.5
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 100.6
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 103.4
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 108.5
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 110.9
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 116.4
+  }
+ ],
+ "tags": [
+  "third_party",
+  "hold"
+ ]
+}

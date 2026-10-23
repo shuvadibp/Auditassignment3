@@ -1,0 +1,140 @@
+{
+ "call_id": "CALL-022",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Imran Rahman",
+ "scenario": "cancellation_request",
+ "date": "2026-10-10 16:51",
+ "duration_sec": 160,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Good afternoon, Orion Shield Insurance, Priya speaking. How may I help you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'm calling about my wife's car insurance. She wants to cancel it but she's at work, so I said I'd phone. I'm worried about being charged extra.",
+   "t": 5.7
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Ah, that sounds really frustrating. Let's see what we can do. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Can I just check, are you the policyholder?",
+   "t": 17.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "No, it's my wife's policy. She's at work today so I said I'd call.",
+   "t": 34.0
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you're calling on behalf of your wife about cancelling a car policy. Is that right?",
+   "t": 40.4
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 48.9
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you for calling on her behalf. I'm sorry, but I can only discuss a policy with the policyholder or a named authorised person. If she calls us directly, or gives consent to add you, we'll be glad to help.",
+   "t": 51.2
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "Okay, I understand.",
+   "t": 67.7
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 70.7
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "There's no way you'll be charged anything more, you can count on it.",
+   "t": 75.3
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just waive the fee? It seems unfair.",
+   "t": 81.8
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 86.6
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 99.3
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. In general, our policies can be cancelled within 14 days of purchase for a full refund if no claim has been made, and after that it's a pro-rata refund, meaning the unused part of the premium, less a $25 administration fee.",
+   "t": 112.8
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Right, I see.",
+   "t": 132.1
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Thanks. I've logged a note under reference REQ-10390, and our customer service team will contact her to arrange this.",
+   "t": 135.1
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 143.5
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your cancellation request.",
+   "t": 146.5
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 150.6
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 153.1
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 158.6
+  }
+ ],
+ "tags": [
+  "third_party"
+ ]
+}

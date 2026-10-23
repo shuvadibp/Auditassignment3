@@ -1,0 +1,9063 @@
+{
+ "CALL-001": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    19,
+    21
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    16,
+    19
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    25
+   ]
+  }
+ },
+ "CALL-002": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "after_disclosure",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-003": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "password",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    11,
+    13
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-004": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    10,
+    12
+   ]
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    20,
+    23
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    27
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    29
+   ]
+  }
+ },
+ "CALL-005": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "redirected",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    19,
+    22
+   ]
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "abrupt",
+   "evidence_turns": [
+    28
+   ]
+  }
+ },
+ "CALL-006": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "C2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "late",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    22
+   ]
+  }
+ },
+ "CALL-007": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    25,
+    31
+   ]
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "sarcastic",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "prompted",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    20,
+    23
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    27
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    29
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    31
+   ]
+  }
+ },
+ "CALL-008": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "neutral_ack",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    18,
+    24
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-009": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    19,
+    22
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    28
+   ]
+  }
+ },
+ "CALL-010": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "sympathy_only",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "redirected",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    28
+   ]
+  }
+ },
+ "CALL-011": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    16,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "skipped",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    7,
+    9
+   ]
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    20
+   ]
+  }
+ },
+ "CALL-012": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-013": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    23,
+    27
+   ]
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "blaming",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "prompted",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-014": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "password",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    15,
+    18
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-015": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "sarcastic",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    11,
+    13
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_confirm",
+   "evidence_turns": []
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "wrong_detail",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    20
+   ]
+  }
+ },
+ "CALL-016": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    15,
+    18
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-017": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    19
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "guarantee",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-018": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    17,
+    23
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-019": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    7,
+    21,
+    27
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "prompted",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-020": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "one_id",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "prompted",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-021": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    25,
+    27
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "acknowledge_adapt",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    20,
+    23
+   ]
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-022": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "C2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    20
+   ]
+  }
+ },
+ "CALL-023": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    7,
+    28
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    20,
+    22
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "missing",
+   "evidence_turns": []
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    10,
+    12
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    28
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    23,
+    26
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    30
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    32
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    34
+   ]
+  }
+ },
+ "CALL-024": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "apology_for_process",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    18,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    20
+   ]
+  }
+ },
+ "CALL-025": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "D4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "password",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "wrong_detail",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    27
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    29
+   ]
+  }
+ },
+ "CALL-026": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    11,
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "skipped",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "acknowledge_adapt",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_signoff",
+   "evidence_turns": []
+  }
+ },
+ "CALL-027": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    19
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "tp_disclosed",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "disclosed",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "late",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "E3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_thanks",
+   "evidence_turns": [
+    14,
+    17
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-028": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    13,
+    15
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    16,
+    19
+   ]
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    25
+   ]
+  }
+ },
+ "CALL-029": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_name",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    12,
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "guarantee",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "redirected",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    28
+   ]
+  }
+ },
+ "CALL-030": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    22,
+    24,
+    26
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    19,
+    22
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-031": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    17,
+    19,
+    23
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    11,
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "lookalike",
+   "evidence_turns": []
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    14,
+    17
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-032": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-033": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "password",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    22
+   ]
+  }
+ },
+ "CALL-034": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    18,
+    24
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_permission",
+   "evidence_turns": [
+    14,
+    16
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-035": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "apology_for_process",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    22
+   ]
+  }
+ },
+ "CALL-036": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "minimal",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    18,
+    21
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    25
+   ]
+  }
+ },
+ "CALL-037": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    19,
+    21
+   ]
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "sarcastic",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "sympathy_only",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    16,
+    19
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-038": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "C2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    17
+   ]
+  }
+ },
+ "CALL-039": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    19,
+    25
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "missing",
+   "evidence_turns": []
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "acknowledge_adapt",
+   "evidence_turns": [
+    9
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    25
+   ]
+  }
+ },
+ "CALL-040": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    17,
+    23
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "wrong_detail",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-041": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    20,
+    26
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    15,
+    17
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_confirm",
+   "evidence_turns": []
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-042": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "no_company_no_name",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    5,
+    26,
+    32
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    21,
+    23
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "sympathy_only",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    10,
+    12
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    28
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    30
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    32
+   ]
+  }
+ },
+ "CALL-043": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "sarcastic",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "after_disclosure",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    27
+   ]
+  }
+ },
+ "CALL-044": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "soft_guarantee",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "minimal",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-045": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    13,
+    16
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-046": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    9,
+    11
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "C2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    12,
+    15
+   ]
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "abrupt",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-047": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    17
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-048": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    10,
+    12
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    28
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    30
+   ]
+  }
+ },
+ "CALL-049": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    22,
+    24,
+    30
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    14,
+    16
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "minimal",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    19,
+    22
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    28
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    30
+   ]
+  }
+ },
+ "CALL-050": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_company",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    16,
+    18
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    13,
+    16
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    22
+   ]
+  }
+ },
+ "CALL-051": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "neutral_ack",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "blaming",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "asks_repeat",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "skipped",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "minimal",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    23
+   ]
+  },
+  "E3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_thanks",
+   "evidence_turns": [
+    18,
+    21
+   ]
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    25
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    27
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    29
+   ]
+  }
+ },
+ "CALL-052": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_name",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "blaming",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "lookalike",
+   "evidence_turns": []
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "guarantee",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "redirected",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_signoff",
+   "evidence_turns": []
+  }
+ },
+ "CALL-053": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    3,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    13,
+    15
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "two_ids",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "acknowledge_adapt",
+   "evidence_turns": [
+    7
+   ]
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-054": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "blaming",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_confirm",
+   "evidence_turns": []
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "wrong",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    24
+   ]
+  }
+ },
+ "CALL-055": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    20,
+    22,
+    28
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "three_ids",
+   "evidence_turns": [
+    3,
+    5,
+    7
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "D4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "offered",
+   "evidence_turns": [
+    10
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    17,
+    20
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    26
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    28
+   ]
+  }
+ },
+ "CALL-056": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    12,
+    14
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "after_disclosure",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "feedback_only",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite_hold",
+   "evidence_turns": [
+    15,
+    18
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    22
+   ]
+  }
+ },
+ "CALL-057": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_company",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "apology_for_process",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "unexplained",
+   "evidence_turns": [
+    13,
+    15
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "before_id",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "hedged",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_injury_info",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "E2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "ref_and_owner",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ },
+ "CALL-058": {
+  "A1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "no_company_no_name",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "never",
+   "evidence_turns": []
+  },
+  "B3": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "sarcastic",
+   "evidence_turns": [
+    11
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    5
+   ]
+  },
+  "C1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "tp_disclosed",
+   "evidence_turns": [
+    7,
+    9
+   ]
+  },
+  "C2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "dob_from_caller",
+   "evidence_turns": [
+    7,
+    9
+   ]
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "missing",
+   "evidence_turns": []
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "E3": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "no_thanks",
+   "evidence_turns": [
+    12,
+    15
+   ]
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    19
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    21
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    23
+   ]
+  }
+ },
+ "CALL-059": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "soft",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    16
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "firm_polite",
+   "evidence_turns": [
+    12
+   ]
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "explained",
+   "evidence_turns": [
+    13
+   ]
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "in_greeting",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "D2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "D4": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "refused",
+   "evidence_turns": [
+    8
+   ]
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "owner_only",
+   "evidence_turns": [
+    16
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "correct",
+   "evidence_turns": [
+    14
+   ]
+  },
+  "F1": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    20
+   ]
+  }
+ },
+ "CALL-060": {
+  "A1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    1
+   ]
+  },
+  "B1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "explicit",
+   "evidence_turns": [
+    3
+   ]
+  },
+  "B2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "used",
+   "evidence_turns": [
+    5,
+    20
+   ]
+  },
+  "B3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "polite",
+   "evidence_turns": []
+  },
+  "B4": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "no_jargon",
+   "evidence_turns": []
+  },
+  "B5": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "paraphrase",
+   "evidence_turns": [
+    6
+   ]
+  },
+  "C1": {
+   "answer": "YES",
+   "difficulty": "subtle",
+   "variant": "volunteered",
+   "evidence_turns": [
+    3,
+    5
+   ]
+  },
+  "C2": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D1": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "prompted",
+   "evidence_turns": [
+    15
+   ]
+  },
+  "D2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "guarantee",
+   "evidence_turns": [
+    17
+   ]
+  },
+  "D4": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D5": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "D6": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "none",
+   "evidence_turns": []
+  },
+  "E1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "full",
+   "evidence_turns": [
+    8,
+    10
+   ]
+  },
+  "E2": {
+   "answer": "NO",
+   "difficulty": "easy",
+   "variant": "vague",
+   "evidence_turns": [
+    20
+   ]
+  },
+  "E3": {
+   "answer": "NA",
+   "difficulty": "easy",
+   "variant": "n/a",
+   "evidence_turns": []
+  },
+  "E4": {
+   "answer": "NO",
+   "difficulty": "subtle",
+   "variant": "wrong_detail",
+   "evidence_turns": [
+    18
+   ]
+  },
+  "F1": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "recap",
+   "evidence_turns": [
+    22
+   ]
+  },
+  "F2": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "asked",
+   "evidence_turns": [
+    24
+   ]
+  },
+  "F3": {
+   "answer": "YES",
+   "difficulty": "easy",
+   "variant": "thanks_goodbye",
+   "evidence_turns": [
+    26
+   ]
+  }
+ }
+}

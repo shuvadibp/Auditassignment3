@@ -1,0 +1,170 @@
+{
+ "call_id": "CALL-036",
+ "agent_id": "AG05",
+ "agent_name": "Rahul Mehta",
+ "customer_name": "Margaret Hughes",
+ "scenario": "home_claim",
+ "date": "2026-09-04 13:01",
+ "duration_sec": 147,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Rahul. How can I help you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I've had a burst pipe in my kitchen and I'm panicking, I don't know what to do.",
+   "t": 13.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Ah, that sounds really frustrating. Let's see what we can do. Can I take your full name and date of birth, please?",
+   "t": 20.9
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Margaret Hughes, 14 May 1967.",
+   "t": 30.8
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 33.8
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's BW5 4QB.",
+   "t": 39.4
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 42.3
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've had a water leak at home and you'd like to make a claim. Is that right?",
+   "t": 45.4
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 54.6
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Right, what happened?",
+   "t": 57.5
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "The pipe under the kitchen sink burst and water's gone across the whole floor.",
+   "t": 60.3
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Okay, I've got that noted.",
+   "t": 67.0
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "And can you confirm the address of the property?",
+   "t": 70.2
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "It's 14 Larch Avenue.",
+   "t": 74.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 77.2
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Surely you can approve the repair costs right now though?",
+   "t": 81.4
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 86.0
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 99.3
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 107.5
+  },
+  {
+   "n": 20,
+   "speaker": "SYSTEM",
+   "text": "[On hold 0:33]",
+   "t": 110.3
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Thank you for holding, I appreciate your patience. Because it's an emergency you can arrange an urgent repair yourself, up to $500, without needing our approval first. Just keep every receipt.",
+   "t": 113.1
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 126.4
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thanks. I've logged your claim under reference CLM-41790, and the home claims team will contact you about the repairs.",
+   "t": 129.2
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 137.9
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 140.1
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 145.1
+  }
+ ],
+ "tags": [
+  "hold"
+ ]
+}

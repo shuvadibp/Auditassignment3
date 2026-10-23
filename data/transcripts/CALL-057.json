@@ -1,0 +1,174 @@
+{
+ "call_id": "CALL-057",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Aiko Tanaka",
+ "scenario": "home_claim",
+ "date": "2026-10-06 15:35",
+ "duration_sec": 163,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hi, this is Marcus, how can I help you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hello, water is coming through my ceiling and I'm really worried about the damage. My policy number is OS-417212.",
+   "t": 5.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm sorry, but I'll need to take a few details from you first. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 14.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Aiko Tanaka.",
+   "t": 35.8
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 38.5
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've had a water leak at home and you'd like to make a claim. Is that right?",
+   "t": 41.4
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 50.7
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Could you tell me what happened and when?",
+   "t": 52.8
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "It started about an hour ago. The pipe under the kitchen sink burst and water's gone across the whole floor.",
+   "t": 56.8
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've got those details.",
+   "t": 65.8
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "And can you confirm the address of the property?",
+   "t": 68.5
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "It's 14 Larch Avenue.",
+   "t": 73.5
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "Just so you know, any settlement will be subject to the policy excess and the indemnity limit, and we may pursue subrogation against the other party's insurer.",
+   "t": 76.5
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 87.4
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 92.1
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Will you definitely cover all of this?",
+   "t": 97.9
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "I can't promise the outcome as the claims team decides, but you've done the right thing by reporting it straight away.",
+   "t": 101.7
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. Because it's an emergency you can arrange an urgent repair yourself, up to $500, without needing our approval first. Just keep every receipt.",
+   "t": 110.6
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 122.2
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Thanks, Ms Tanaka. I've logged your claim under reference CLM-12569, and the home claims team will contact you about the repairs.",
+   "t": 125.4
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 134.4
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've taken the details of your claim and passed it to the home claims team.",
+   "t": 136.9
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 144.7
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 147.6
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 152.7
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 155.3
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 161.1
+  }
+ ],
+ "tags": []
+}

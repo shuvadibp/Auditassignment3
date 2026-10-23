@@ -1,0 +1,138 @@
+{
+ "call_id": "CALL-015",
+ "agent_id": "AG04",
+ "agent_name": "Sofia Alvarez",
+ "customer_name": "Tomas Herrera",
+ "scenario": "address_change",
+ "date": "2026-09-12 09:48",
+ "duration_sec": 123,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Sofia. How can I help you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I've just moved house and need to update my address. I'm worried it'll push my premium up, it's already so expensive.",
+   "t": 12.4
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "That sounds like a really tough few days. Let's get this sorted out for you. Can I take your full name and date of birth, please?",
+   "t": 21.4
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Tomas Herrera, 25 May 1964.",
+   "t": 32.3
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 35.4
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "And what's the new address, please?",
+   "t": 37.9
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "It's 22 Maple Close.",
+   "t": 41.2
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 43.3
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just leave my premium the same? It's only a few streets away.",
+   "t": 48.0
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Look, as I already said, it's all in the terms and conditions. I don't know how else to explain it.",
+   "t": 54.7
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "Just so you know, the change is subject to an underwriting review and a pro-rata premium adjustment, with any mid-term amendment fee applied.",
+   "t": 63.8
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 74.2
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 78.8
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. The change takes effect straight away, your premium may be recalculated, and we'll send updated documents within 5 working days.",
+   "t": 84.5
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 95.9
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Thanks. I've updated your address under reference REQ-38537, and our policy services team will send the new documents.",
+   "t": 98.4
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 106.0
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 108.5
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 113.6
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 116.0
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 121.0
+  }
+ ],
+ "tags": []
+}

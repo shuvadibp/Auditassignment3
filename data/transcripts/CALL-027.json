@@ -1,0 +1,160 @@
+{
+ "call_id": "CALL-027",
+ "agent_id": "AG04",
+ "agent_name": "Sofia Alvarez",
+ "customer_name": "David Cohen",
+ "scenario": "dd_change",
+ "date": "2026-09-22 16:49",
+ "duration_sec": 151,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance you're speaking with sofia how can i help you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "uh hi i'm phoning for my father he needs the direct debit date moving and i'm worried about him missing a payment",
+   "t": 8.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "i'm really sorry you're going through this mr cohen i can imagine how worrying that is can i just check are you the policyholder",
+   "t": 16.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "no it's my father's policy he's at work today so i said i'd call",
+   "t": 26.5
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you're calling for your father to move a direct debit date is that right",
+   "t": 33.3
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 41.5
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "of course no problem let me pull it up i can see the policy renews next month at $482 a year and it's registered at 14 larch avenue",
+   "t": 44.6
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "oh and i should have mentioned at the start this call is being recorded for training purposes",
+   "t": 56.8
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "uh just so you know we may need to review the details which can change your price slightly and any difference is simply worked out for the part of the year that's left",
+   "t": 63.8
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "can't you just change it today it's only a date",
+   "t": 76.6
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "i completely understand why that's frustrating but i'm not able to make an exception it's a fixed term of the policy i'm happy to explain how it works if that helps",
+   "t": 81.0
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "um so it definitely won't affect my payment record",
+   "t": 94.0
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "there's no way this will cause any problems you can rely on that",
+   "t": 98.3
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "let me just check that for you would you mind if i place you on a brief hold",
+   "t": 104.3
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "sure no problem",
+   "t": 112.0
+  },
+  {
+   "n": 16,
+   "speaker": "SYSTEM",
+   "text": "[On hold 0:40]",
+   "t": 114.0
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "right so in general a direct debit date change needs 5 working days' notice",
+   "t": 116.7
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 123.6
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "thanks mr cohen i've logged a note under reference req-71936 and our billing team will contact him to arrange this",
+   "t": 126.0
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 134.3
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "just to recap i've requested the change to your direct debit date",
+   "t": 136.7
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 142.9
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance have a good day",
+   "t": 144.9
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "thanks bye",
+   "t": 149.7
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "third_party",
+  "hold"
+ ]
+}

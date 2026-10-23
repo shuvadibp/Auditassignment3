@@ -1,0 +1,158 @@
+{
+ "call_id": "CALL-017",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "David Cohen",
+ "scenario": "cancellation_request",
+ "date": "2026-09-12 09:17",
+ "duration_sec": 158,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello and thank you for calling Orion Shield Insurance. My name's Priya. What can I do for you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'd like to cancel my car policy. I found something cheaper and, frankly, I'm annoyed about the price rise. I'm worried I'll lose a lot of money. My policy number is OS-988763.",
+   "t": 8.5
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm so sorry to hear that, that must be really stressful. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 22.3
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "David Cohen.",
+   "t": 43.1
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, Mr Cohen, that's you verified.",
+   "t": 45.5
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to cancel your car policy. Is that right?",
+   "t": 49.4
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 56.6
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Can I confirm which policy this is, car or home?",
+   "t": 58.6
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The car insurance.",
+   "t": 63.9
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just waive the fee? It seems unfair.",
+   "t": 66.5
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 71.3
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "Honestly, this is ridiculous. Can I speak to a manager?",
+   "t": 83.9
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "I understand, and I'm sorry for the frustration. I can arrange for a supervisor to call you back within 24 hours, or log a formal complaint. Which would you prefer?",
+   "t": 88.2
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "A supervisor callback, please.",
+   "t": 101.1
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 103.8
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "I guarantee you won't be charged a penny extra.",
+   "t": 108.7
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. As it's past the 14-day cooling-off period, the refund is pro-rata, which just means you get back the unused part of your premium, less a $25 administration fee.",
+   "t": 113.7
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Right, I see.",
+   "t": 127.4
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Thanks, Mr Cohen. I've logged your cancellation request under reference REQ-72199, and our policy services team will process it and confirm in writing.",
+   "t": 130.3
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 140.1
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 142.1
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 147.0
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 150.5
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 155.3
+  }
+ ],
+ "tags": [
+  "complaint"
+ ]
+}

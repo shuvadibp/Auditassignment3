@@ -1,0 +1,194 @@
+{
+ "call_id": "CALL-025",
+ "agent_id": "AG06",
+ "agent_name": "Hannah Schmidt",
+ "customer_name": "Kwame Mensah",
+ "scenario": "cancellation_request",
+ "date": "2026-09-02 14:16",
+ "duration_sec": 169,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello and thank you for calling Orion Shield Insurance. My name's Hannah. What can I do for you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'd like to cancel my car policy. I found something cheaper and, frankly, I'm annoyed about the price rise. I'm worried I'll lose a lot of money.",
+   "t": 13.7
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm really sorry you're going through this, I can imagine how worrying that is. Can I take your full name and date of birth, please?",
+   "t": 25.0
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Kwame Mensah, 19 July 1952.",
+   "t": 35.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 38.3
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's BW7 6ZD.",
+   "t": 44.1
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 46.9
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "One more thing for the record, what's your online account password?",
+   "t": 49.5
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Er, I'd rather not say that over the phone.",
+   "t": 54.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "No problem, the other details are enough.",
+   "t": 59.0
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to cancel your car policy. Is that right?",
+   "t": 63.1
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 69.3
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "Can I confirm which policy this is, car or home?",
+   "t": 71.8
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "The car insurance.",
+   "t": 76.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 79.2
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 83.4
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Honestly, this is ridiculous. Can I speak to a manager?",
+   "t": 96.5
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "There isn't a manager available, I'm the only one who can help you.",
+   "t": 101.5
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 107.1
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "I can't promise how it will be priced, the system will calculate it and you'll get it in writing.",
+   "t": 112.1
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. Within the 21-day cooling-off period you'd get a full refund, as long as no claim has been made.",
+   "t": 120.6
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 131.3
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thanks, Mr Mensah. I've logged your cancellation request under reference REQ-16226, and our policy services team will process it and confirm in writing.",
+   "t": 134.2
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 144.3
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your cancellation request.",
+   "t": 146.4
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 150.0
+  },
+  {
+   "n": 27,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 152.7
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 158.1
+  },
+  {
+   "n": 29,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 161.2
+  },
+  {
+   "n": 30,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 167.0
+  }
+ ],
+ "tags": [
+  "complaint"
+ ]
+}

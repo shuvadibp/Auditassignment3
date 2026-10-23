@@ -1,0 +1,182 @@
+{
+ "call_id": "CALL-052",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "David Cohen",
+ "scenario": "dd_change",
+ "date": "2026-09-18 16:17",
+ "duration_sec": 147,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance how can i help",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hi i need to move my direct debit date because my salary date has changed and i'm worried about missing a payment again",
+   "t": 5.3
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "i'm so sorry to hear that that must be really stressful can i take your full name and date of birth please",
+   "t": 15.6
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "david cohen 25 january 1983",
+   "t": 24.7
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "thank you and can you confirm your policy number or postcode",
+   "t": 27.7
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "it's rm3 3la",
+   "t": 33.4
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "um thank you that's you verified",
+   "t": 36.4
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you'd like to move your direct debit date is that right",
+   "t": 39.0
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 45.8
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "uh which date would you like to move it to",
+   "t": 48.6
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "the 28th if possible",
+   "t": 53.5
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "thanks i've recorded all of that on your file",
+   "t": 56.2
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "so while i'm on i missed last month's payment can i pay it now by card",
+   "t": 60.3
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "for your security i can't take card details over the phone i can transfer you to our automated secure payment line or you can pay through the online portal",
+   "t": 67.6
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "the automated line is fine thanks",
+   "t": 80.1
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "can't you just change it today it's only a date",
+   "t": 83.6
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "um well you really should have read the policy documents when you bought it",
+   "t": 87.9
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "uh so it definitely won't affect my payment record",
+   "t": 93.4
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "i guarantee it won't affect your record at all",
+   "t": 97.4
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "let me explain what happens here i can change the date but we need 5 working days' notice so the new date would apply from the collection after that",
+   "t": 101.5
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "okay that's good to know",
+   "t": 114.1
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "thanks i've logged the change under reference req-13561 and our billing team will confirm the new date in writing",
+   "t": 117.3
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 125.7
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "just to recap i've requested the change to your direct debit date",
+   "t": 128.0
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 133.4
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 135.7
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "so no that's everything thank you",
+   "t": 141.1
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "thanks bye",
+   "t": 144.5
+  }
+ ],
+ "tags": [
+  "noisy_asr"
+ ]
+}

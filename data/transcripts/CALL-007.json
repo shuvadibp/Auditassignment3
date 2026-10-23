@@ -1,0 +1,208 @@
+{
+ "call_id": "CALL-007",
+ "agent_id": "AG06",
+ "agent_name": "Hannah Schmidt",
+ "customer_name": "Liam OConnor",
+ "scenario": "excess_query",
+ "date": "2026-09-30 14:14",
+ "duration_sec": 181,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "um thank you for calling orion shield insurance you're speaking with hannah how can i help you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "so hi a stone cracked my windscreen and i'm stressed about the cost how much would i have to pay my policy number is os-503409",
+   "t": 7.9
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "that sounds like a really tough few days let's get this sorted out for you thank you i've got that policy number can i take your full name as well to verify",
+   "t": 18.0
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "liam oconnor",
+   "t": 31.9
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "thank you that's you verified",
+   "t": 34.1
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you have a cracked windscreen and want to understand what you'd pay is that right",
+   "t": 36.5
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 45.5
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "so is it only the windscreen that's damaged",
+   "t": 47.6
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "yes just the windscreen",
+   "t": 51.0
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "just so you know you'll pay an excess which is the part of any claim you cover yourself and if someone else was at fault we may recover the costs from their insurer",
+   "t": 53.4
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "so it'll definitely be covered",
+   "t": 66.8
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "uh there's no way they'd refuse a windscreen it'll definitely be paid",
+   "t": 70.2
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "sorry are you recording this call",
+   "t": 74.9
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "yes all our calls are recorded for quality and training",
+   "t": 78.5
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "um can't you waive the excess it's only a tiny crack",
+   "t": 83.5
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "uh look as i already said it's all in the terms and conditions i don't know how else to explain it",
+   "t": 88.6
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "honestly this is ridiculous can i speak to a manager",
+   "t": 96.8
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "i understand and i'm sorry for the frustration i can arrange for a supervisor to call you back within 24 hours or log a formal complaint which would you prefer",
+   "t": 101.6
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "a supervisor callback please",
+   "t": 114.3
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "um let me just check that for you would you mind if i place you on a brief hold",
+   "t": 116.7
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "sure no problem",
+   "t": 125.1
+  },
+  {
+   "n": 22,
+   "speaker": "SYSTEM",
+   "text": "[On hold 0:39]",
+   "t": 128.1
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "thank you for holding i appreciate your patience for windscreen-only claims the excess which is the amount you pay towards a claim yourself is $50 for other motor claims it's $250",
+   "t": 130.6
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "okay that's good to know",
+   "t": 144.0
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "thanks liam i've noted your query under reference req-86066 and the claims team will contact you if you'd like to proceed",
+   "t": 147.1
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 155.6
+  },
+  {
+   "n": 27,
+   "speaker": "AGENT",
+   "text": "um just to recap i've explained the excess that applies",
+   "t": 158.7
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "um yes that's right",
+   "t": 163.6
+  },
+  {
+   "n": 29,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 165.7
+  },
+  {
+   "n": 30,
+   "speaker": "CUSTOMER",
+   "text": "so no that's everything thank you",
+   "t": 170.7
+  },
+  {
+   "n": 31,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance liam have a good day",
+   "t": 173.6
+  },
+  {
+   "n": 32,
+   "speaker": "CUSTOMER",
+   "text": "thanks bye",
+   "t": 179.0
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "complaint",
+  "hold"
+ ]
+}

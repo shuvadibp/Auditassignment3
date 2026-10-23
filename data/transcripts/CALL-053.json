@@ -1,0 +1,177 @@
+{
+ "call_id": "CALL-053",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "Elena Petrova",
+ "scenario": "address_change",
+ "date": "2026-09-21 09:58",
+ "duration_sec": 171,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "good afternoon orion shield insurance daniel speaking how may i help you",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hi i've just moved house and need to update my address i'm worried it'll push my premium up it's already so expensive",
+   "t": 6.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "i'm really sorry you're going through this elena i can imagine how worrying that is before i ask for a few details i need to let you know that this call is recorded for quality and training purposes can i take your full name and date of birth please",
+   "t": 15.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "elena petrova 13 august 1975",
+   "t": 36.0
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "thank you that's you verified",
+   "t": 39.0
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "i should tell you i lost my job recently so money is really tight at the moment",
+   "t": 42.6
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "i'm sorry to hear that i can refer you to our priority support team who can look at options and i'll confirm everything in writing so you have time to read it",
+   "t": 50.5
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you've moved house and need your address updated is that right",
+   "t": 64.0
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 71.1
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "and what's the new address please",
+   "t": 73.4
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "it's 22 maple close",
+   "t": 76.7
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "thanks i've recorded all of that on your file",
+   "t": 79.7
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "just so you know the change is subject to an underwriting review and a pro-rata premium adjustment with any mid-term amendment fee applied",
+   "t": 84.5
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "sorry i don't follow what does any of that mean",
+   "t": 94.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "it's all in the policy wording i'm afraid anyway let's move on",
+   "t": 99.3
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "can't you just leave my premium the same it's only a few streets away",
+   "t": 104.3
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "i completely understand why that's frustrating but i'm not able to make an exception it's a fixed term of the policy i'm happy to explain how it works if that helps",
+   "t": 110.2
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "let me explain what happens here the change takes effect straight away your premium may be recalculated and we'll send your updated policy documents within 3 working days",
+   "t": 123.2
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 135.2
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "thanks elena i've updated your address under reference req-80969 and our policy services team will send the new documents",
+   "t": 137.7
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 146.4
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "just to recap i've updated your address on the policy",
+   "t": 148.4
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 152.8
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 154.9
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 160.2
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance have a good day",
+   "t": 163.3
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "uh thanks bye",
+   "t": 169.0
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "vulnerable"
+ ]
+}

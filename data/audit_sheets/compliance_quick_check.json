@@ -1,0 +1,98 @@
+{
+ "sheet_id": "compliance_quick_check",
+ "title": "Compliance Quick Check",
+ "version": "1.0",
+ "pass_mark": 80.0,
+ "questions": [
+  {
+   "qid": "B3",
+   "section": "Communication & Empathy",
+   "text": "Did the agent stay polite throughout - no rude, sarcastic, blaming or dismissive language?",
+   "weight": 2,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if any agent turn is rude, sarcastic, blames the customer or is dismissive ('As I already said...', 'you should have read the policy'). Firm but courteous refusals are YES.",
+   "nli_hypothesis": "The agent is rude or dismissive towards the customer."
+  },
+  {
+   "qid": "C1",
+   "section": "Identity & Security",
+   "text": "Before discussing policy details, did the agent verify the CALLER's identity with at least two identifiers (full name, DOB, policy number, postcode)?",
+   "weight": 3,
+   "critical": true,
+   "region": "opening",
+   "guidance": "Identifiers volunteered by the customer count if the agent used them to verify. NO if fewer than two, or if verification happens AFTER policy details were disclosed or was skipped. NA if the caller is not the policyholder and the agent stops at the identity step without disclosing anything.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "C2",
+   "section": "Identity & Security",
+   "text": "If the caller was not the policyholder, did the agent refuse to disclose policy details?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NA if the caller is the policyholder. NO if policy details are disclosed to a third party, even if the caller recites the policyholder's DOB/postcode.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D1",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent tell the customer the call is recorded in the opening, before identity checks or discussing the issue?",
+   "weight": 3,
+   "critical": true,
+   "region": "opening",
+   "guidance": "NO if missing, said late (after identity checks / mid-call), or only when the customer asks. Saying 'I've recorded your details' is NOT a recording disclosure.",
+   "nli_hypothesis": "The agent says the call is being recorded."
+  },
+  {
+   "qid": "D2",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent avoid promising or guaranteeing claim approval, payout or pricing outcomes?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if the agent guarantees/promises an outcome decided by another team (claim approved, full payout, price unchanged, compensation). Saying 'I can't promise...' is YES.",
+   "nli_hypothesis": "The agent guarantees the claim will be approved."
+  },
+  {
+   "qid": "D4",
+   "section": "Regulatory Compliance",
+   "text": "If the customer complained or asked for a manager, did the agent offer the escalation route (supervisor callback or formal complaint)?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if no complaint/escalation request. 'I'll pass your feedback on' is NOT enough - must offer a supervisor callback or formal complaint.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D5",
+   "section": "Regulatory Compliance",
+   "text": "If the customer showed vulnerability, did the agent acknowledge it AND adapt/offer support?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if no sign of vulnerability. Sympathy alone is NO; need acknowledgement plus adaptation (slower pace, written confirmation, callback, priority support team).",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D6",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent avoid asking for prohibited sensitive data (full card number, CVV, PIN, password)?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if the agent asks for or accepts any of them. Redirecting to the automated secure payment line is YES.",
+   "nli_hypothesis": "The agent asks the customer for their card number or password."
+  },
+  {
+   "qid": "E4",
+   "section": "Process & Resolution",
+   "text": "Were policy facts stated by the agent (timelines, fees, excess, limits) consistent with the knowledge base?",
+   "weight": 3,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "Compare every number the agent states with the knowledge base. Any mismatch = NO.",
+   "nli_hypothesis": null
+  }
+ ]
+}

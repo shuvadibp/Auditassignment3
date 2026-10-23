@@ -1,0 +1,180 @@
+{
+ "call_id": "CALL-019",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "Chloe Dubois",
+ "scenario": "address_change",
+ "date": "2026-09-05 13:41",
+ "duration_sec": 147,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Hello and thank you for calling Orion Shield Insurance. My name's Daniel. What can I do for you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I've just moved house and need to update my address. I'm worried it'll push my premium up, it's already so expensive.",
+   "t": 8.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "That sounds like a really tough few days. Let's get this sorted out for you. Can I take your full name and date of birth, please?",
+   "t": 17.2
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Chloe Dubois, 14 December 1958.",
+   "t": 27.7
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 30.7
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's RM6 7QF.",
+   "t": 36.5
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, Chloe, that's you verified.",
+   "t": 39.5
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've moved house and need your address updated. Is that right?",
+   "t": 42.4
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 49.0
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "And what's the new address, please?",
+   "t": 51.3
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "It's 22 Maple Close.",
+   "t": 54.5
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 56.9
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, are you recording this call?",
+   "t": 61.6
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Yes, all our calls are recorded for quality and training.",
+   "t": 65.2
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just leave my premium the same? It's only a few streets away.",
+   "t": 70.1
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 76.4
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Is my premium going to stay the same?",
+   "t": 89.4
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "There's no way that'll affect your price, you can count on it.",
+   "t": 93.5
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. The change takes effect straight away, your premium may be recalculated, and we'll send your updated policy documents within 3 working days.",
+   "t": 98.9
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 111.0
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Thanks, Chloe. I've updated your address under reference REQ-20667, and our policy services team will send the new documents.",
+   "t": 113.7
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 121.5
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've updated your address on the policy.",
+   "t": 123.9
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 128.3
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 131.2
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 136.2
+  },
+  {
+   "n": 27,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Chloe. Have a good day!",
+   "t": 139.3
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 144.4
+  }
+ ],
+ "tags": []
+}

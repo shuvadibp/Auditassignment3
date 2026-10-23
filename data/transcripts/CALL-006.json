@@ -1,0 +1,153 @@
+{
+ "call_id": "CALL-006",
+ "agent_id": "AG02",
+ "agent_name": "Daniel Okafor",
+ "customer_name": "Imran Rahman",
+ "scenario": "address_change",
+ "date": "2026-10-13 13:53",
+ "duration_sec": 148,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "hello and thank you for calling orion shield insurance my name's daniel what can i do for you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hello my father has just moved house and asked me to update the address on the policy i'm worried it's all gone wrong because he hasn't done it yet",
+   "t": 8.4
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "ah that sounds really frustrating let's see what we can do can i just check are you the policyholder",
+   "t": 20.1
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "um no it's my father's policy he's at work today so i said i'd call",
+   "t": 28.9
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you're calling for your father to update an address is that right",
+   "t": 35.6
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 42.6
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "thank you for calling on his behalf i'm sorry but i can only discuss a policy with the policyholder or a named authorised person if he calls us directly or gives consent to add you we'll be glad to help",
+   "t": 44.6
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "okay i understand",
+   "t": 61.3
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "oh and i should have mentioned at the start this call is being recorded for training purposes",
+   "t": 63.9
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "can't you just leave my premium the same it's only a few streets away",
+   "t": 71.0
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "i completely understand why that's frustrating but i'm not able to make an exception it's a fixed term of the policy i'm happy to explain how it works if that helps",
+   "t": 77.0
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "is my premium going to stay the same",
+   "t": 90.1
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "there's no way that'll affect your price you can count on it",
+   "t": 93.8
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "let me explain what happens here in general an address change takes effect immediately and the updated policy documents are issued within 3 working days",
+   "t": 100.0
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 111.2
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "thanks imran i've logged a note under reference req-80236 and our customer service team will contact him to update the address",
+   "t": 113.1
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 122.8
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "just to recap i've updated your address on the policy",
+   "t": 125.4
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 130.8
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "uh is there anything else i can help you with today",
+   "t": 133.6
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 138.2
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "um thank you for calling orion shield insurance have a good day",
+   "t": 141.0
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "uh thanks bye",
+   "t": 145.6
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "third_party"
+ ]
+}

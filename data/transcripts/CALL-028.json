@@ -1,0 +1,170 @@
+{
+ "call_id": "CALL-028",
+ "agent_id": "AG04",
+ "agent_name": "Sofia Alvarez",
+ "customer_name": "Aiko Tanaka",
+ "scenario": "excess_query",
+ "date": "2026-10-01 13:39",
+ "duration_sec": 152,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Good afternoon, Orion Shield Insurance, Sofia speaking. How may I help you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, a stone cracked my windscreen and I'm stressed about the cost. How much would I have to pay? My policy number is OS-708242.",
+   "t": 6.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "That sounds like a really tough few days. Let's get this sorted out for you. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 16.0
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Aiko Tanaka.",
+   "t": 38.3
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 40.8
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "Sorry, I didn't quite get all of that. Can you go through what's happened again from the start?",
+   "t": 44.2
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Of course, as I said, a stone cracked my windscreen and I'm stressed about the cost. How much would I have to pay?",
+   "t": 52.6
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Is it only the windscreen that's damaged?",
+   "t": 61.8
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Yes, just the windscreen.",
+   "t": 65.5
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 68.5
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "So it'll definitely be covered?",
+   "t": 72.5
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "I can't promise the outcome, the claims team decides, but windscreen damage is something many policies cover.",
+   "t": 75.4
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "Just so you know, any settlement will be subject to the policy excess and the indemnity limit, and we may pursue subrogation against the other party's insurer.",
+   "t": 82.5
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 94.2
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 99.4
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 105.4
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 113.0
+  },
+  {
+   "n": 18,
+   "speaker": "SYSTEM",
+   "text": "[On hold 0:26]",
+   "t": 116.0
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Thank you for holding, I appreciate your patience. For windscreen-only claims the excess, which is the amount you pay towards a claim yourself, is $100. For other motor claims it's $250.",
+   "t": 118.0
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 130.7
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Thanks. Someone will get back to you.",
+   "t": 133.3
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 136.7
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've explained the excess that applies.",
+   "t": 138.7
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 142.8
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 144.9
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 150.7
+  }
+ ],
+ "tags": [
+  "hold"
+ ]
+}

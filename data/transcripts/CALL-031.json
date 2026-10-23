@@ -1,0 +1,158 @@
+{
+ "call_id": "CALL-031",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Tomas Herrera",
+ "scenario": "excess_query",
+ "date": "2026-10-07 15:41",
+ "duration_sec": 131,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Marcus. How can I help you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, a stone cracked my windscreen and I'm stressed about the cost. How much would I have to pay?",
+   "t": 7.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm really sorry you're going through this, I can imagine how worrying that is. Can I take your full name and date of birth, please?",
+   "t": 15.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Tomas Herrera, 11 February 1966.",
+   "t": 26.3
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 29.5
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you have a cracked windscreen and want to understand what you'd pay. Is that right?",
+   "t": 32.7
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 40.9
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Is it only the windscreen that's damaged?",
+   "t": 43.2
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "Yes, just the windscreen.",
+   "t": 47.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 49.5
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "Just so you know, any settlement will be subject to the policy excess and the indemnity limit, and we may pursue subrogation against the other party's insurer.",
+   "t": 53.7
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 64.6
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 69.1
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 75.1
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 82.9
+  },
+  {
+   "n": 16,
+   "speaker": "SYSTEM",
+   "text": "[On hold 1:30]",
+   "t": 85.7
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Thank you for holding, Mr Herrera, I appreciate your patience. For windscreen-only claims the excess, which is the amount you pay towards a claim yourself, is $50. For other motor claims it's $250.",
+   "t": 87.7
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 101.1
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Thanks, Mr Herrera. I've noted your query under reference REQ-48696, and the claims team will contact you if you'd like to proceed.",
+   "t": 103.9
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 113.4
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've explained the excess that applies.",
+   "t": 116.3
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 120.5
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Mr Herrera. Have a good day!",
+   "t": 123.2
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 128.9
+  }
+ ],
+ "tags": [
+  "hold"
+ ]
+}

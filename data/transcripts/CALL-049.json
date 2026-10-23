@@ -1,0 +1,200 @@
+{
+ "call_id": "CALL-049",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Tomas Herrera",
+ "scenario": "home_claim",
+ "date": "2026-09-11 14:26",
+ "duration_sec": 175,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Marcus. How can I help you today? Just so you know, this call is recorded for training and quality purposes.",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hello, water is coming through my ceiling and I'm really worried about the damage. My policy number is OS-554409.",
+   "t": 12.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Okay. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 20.4
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Tomas Herrera.",
+   "t": 28.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, Mr Herrera, that's you verified.",
+   "t": 30.8
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "Sorry, I didn't quite get all of that. Can you go through what's happened again from the start?",
+   "t": 34.0
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Of course, as I said, I've had a burst pipe in my kitchen and I'm panicking",
+   "t": 42.5
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Right, what happened?",
+   "t": 49.8
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The pipe under the kitchen sink burst and water's gone across the whole floor.",
+   "t": 52.2
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Okay, I've got that noted.",
+   "t": 59.1
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "And can you confirm the address of the property?",
+   "t": 62.3
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "It's 14 Larch Avenue.",
+   "t": 66.6
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 69.4
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Just so you know, any settlement will be subject to the policy excess and the indemnity limit, and we may pursue subrogation against the other party's insurer.",
+   "t": 74.4
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 85.3
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 90.0
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Will you definitely cover all of this?",
+   "t": 95.4
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "I can't promise the outcome as the claims team decides, but you've done the right thing by reporting it straight away.",
+   "t": 99.1
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Let me just check that for you, would you mind if I place you on a brief hold?",
+   "t": 108.5
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Sure, no problem.",
+   "t": 116.2
+  },
+  {
+   "n": 21,
+   "speaker": "SYSTEM",
+   "text": "[On hold 1:26]",
+   "t": 118.9
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Thank you for holding, Mr Herrera, I appreciate your patience. Because it's an emergency you can arrange an urgent repair yourself, up to $500, without needing our approval first. Just keep every receipt.",
+   "t": 121.4
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 134.6
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Thanks, Mr Herrera. I've logged your claim under reference CLM-43889, and the home claims team will contact you about the repairs.",
+   "t": 137.5
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 146.4
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've taken the details of your claim and passed it to the home claims team.",
+   "t": 148.5
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 156.7
+  },
+  {
+   "n": 28,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 158.8
+  },
+  {
+   "n": 29,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 163.9
+  },
+  {
+   "n": 30,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Mr Herrera. Have a good day!",
+   "t": 167.4
+  },
+  {
+   "n": 31,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 173.8
+  }
+ ],
+ "tags": [
+  "hold"
+ ]
+}

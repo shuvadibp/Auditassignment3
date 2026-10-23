@@ -1,0 +1,170 @@
+{
+ "call_id": "CALL-026",
+ "agent_id": "AG06",
+ "agent_name": "Hannah Schmidt",
+ "customer_name": "Tomas Herrera",
+ "scenario": "cancellation_request",
+ "date": "2026-09-03 11:18",
+ "duration_sec": 179,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Good afternoon, Orion Shield Insurance, Hannah speaking. How may I help you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'd like to cancel my car policy. I found something cheaper and, frankly, I'm annoyed about the price rise. I'm worried I'll lose a lot of money.",
+   "t": 6.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm so sorry to hear that, Tomas, that must be really stressful. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. I'll skip the usual security questions as you've had a stressful time, let's just get on with it.",
+   "t": 18.4
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Oh, okay. Thank you.",
+   "t": 40.0
+  },
+  {
+   "n": 5,
+   "speaker": "CUSTOMER",
+   "text": "I'm sorry if I'm a bit slow today, my partner passed away last month and they always dealt with all of this.",
+   "t": 43.0
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "I'm so sorry for your loss. Please take all the time you need, I'll go slowly, and I can send everything in writing or arrange a callback from our priority support team.",
+   "t": 52.9
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to cancel your car policy. Is that right?",
+   "t": 65.8
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 72.8
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "Can I confirm which policy this is, car or home?",
+   "t": 75.2
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "The car insurance.",
+   "t": 80.4
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "Just so you know, the change is subject to an underwriting review and a pro-rata premium adjustment, with any mid-term amendment fee applied.",
+   "t": 82.5
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 92.9
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 97.6
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 103.3
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "I can't promise how it will be priced, the system will calculate it and you'll get it in writing.",
+   "t": 107.6
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just waive the fee? It seems unfair.",
+   "t": 116.3
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 120.5
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. As it's past the 14-day cooling-off period, the refund is pro-rata, which just means you get back the unused part of your premium, less a $25 administration fee.",
+   "t": 133.1
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 147.1
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Thanks, Tomas. I've logged your cancellation request under reference REQ-36907, and our policy services team will process it and confirm in writing.",
+   "t": 150.4
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 159.3
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your cancellation request.",
+   "t": 162.3
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 166.9
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 168.9
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 174.3
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 176.7
+  }
+ ],
+ "tags": [
+  "vulnerable"
+ ]
+}

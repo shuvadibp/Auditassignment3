@@ -1,0 +1,170 @@
+{
+ "call_id": "CALL-039",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Margaret Hughes",
+ "scenario": "address_change",
+ "date": "2026-09-26 15:56",
+ "duration_sec": 151,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Marcus. How can I help you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I've just moved house and need to update my address. I'm worried it'll push my premium up, it's already so expensive.",
+   "t": 7.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm so sorry to hear that, Margaret, that must be really stressful. Can I take your full name and date of birth, please?",
+   "t": 16.7
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Margaret Hughes, 12 April 1978.",
+   "t": 26.3
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 29.5
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's KK1 3LA.",
+   "t": 34.6
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 37.7
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "I should tell you I lost my job recently, so money is really tight at the moment.",
+   "t": 40.8
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "I'm sorry to hear that. I can refer you to our priority support team, who can look at options, and I'll confirm everything in writing so you have time to read it.",
+   "t": 48.7
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've moved house and need your address updated. Is that right?",
+   "t": 61.5
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 68.1
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "And what's the new address, please?",
+   "t": 70.3
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "It's 22 Maple Close.",
+   "t": 73.4
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 75.8
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Is my premium going to stay the same?",
+   "t": 88.7
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "I can't confirm how it will affect your price, the system will recalculate it and you'll get it in writing.",
+   "t": 93.2
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. The change takes effect straight away, your premium may be recalculated, and we'll send your updated policy documents within 3 working days.",
+   "t": 102.2
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 114.1
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Thanks, Margaret. I've updated your address under reference REQ-75145, and our policy services team will send the new documents.",
+   "t": 116.8
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 125.0
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've updated your address on the policy.",
+   "t": 128.0
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 133.2
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 135.2
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 140.3
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Margaret. Have a good day!",
+   "t": 142.9
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 148.8
+  }
+ ],
+ "tags": [
+  "vulnerable"
+ ]
+}

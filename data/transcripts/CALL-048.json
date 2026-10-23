@@ -1,0 +1,201 @@
+{
+ "call_id": "CALL-048",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Imran Rahman",
+ "scenario": "home_claim",
+ "date": "2026-09-22 11:21",
+ "duration_sec": 191,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "hello and thank you for calling orion shield insurance my name's priya what can i do for you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "um hello water is coming through my ceiling and i'm really worried about the damage",
+   "t": 8.5
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "so that sounds like a really tough few days let's get this sorted out for you before i ask for a few details i need to let you know that this call is recorded for quality and training purposes can i take your full name and date of birth please",
+   "t": 14.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "imran rahman 22 march 1955",
+   "t": 34.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "thank you and can you confirm your policy number or postcode",
+   "t": 37.1
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "it's bd2 8lb",
+   "t": 41.7
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "thank you that's you verified",
+   "t": 43.8
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you've had a water leak at home and you'd like to make a claim is that right",
+   "t": 46.2
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 55.2
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "could you tell me exactly what happened and when it happened",
+   "t": 57.9
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "uh it started about an hour ago the pipe under the kitchen sink burst and water's gone across the whole floor",
+   "t": 63.2
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "thank you was anyone injured and how extensive is the damage",
+   "t": 72.4
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "everyone's safe but the floor and the bottom of the cabinets are soaked and some electrics are close by",
+   "t": 78.1
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "and can you confirm the address of the property",
+   "t": 86.1
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "um it's 14 larch avenue",
+   "t": 90.8
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "will you definitely cover all of this",
+   "t": 93.0
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "i can't promise the outcome as the claims team decides but you've done the right thing by reporting it straight away",
+   "t": 96.5
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "honestly this is ridiculous can i speak to a manager",
+   "t": 105.0
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "i understand and i'm sorry for the frustration i can arrange for a supervisor to call you back within 24 hours or log a formal complaint which would you prefer",
+   "t": 110.1
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "a supervisor callback please",
+   "t": 122.4
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "just so you know you'll pay an excess which is the part of any claim you cover yourself and if someone else was at fault we may recover the costs from their insurer",
+   "t": 125.3
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "um let me explain what happens here because it's an emergency you can arrange an urgent repair yourself up to $500 without needing our approval first just keep every receipt",
+   "t": 139.4
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 151.2
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "so thanks i've logged your claim under reference clm-44831 and the home claims team will contact you about the repairs",
+   "t": 153.5
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 161.9
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "just to recap i've taken the details of your claim and passed it to the home claims team",
+   "t": 164.5
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 172.7
+  },
+  {
+   "n": 28,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 175.2
+  },
+  {
+   "n": 29,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 180.1
+  },
+  {
+   "n": 30,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance have a good day",
+   "t": 183.6
+  },
+  {
+   "n": 31,
+   "speaker": "CUSTOMER",
+   "text": "thanks bye",
+   "t": 189.2
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "complaint"
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "call_id": "CALL-029",
+ "agent_id": "AG04",
+ "agent_name": "Sofia Alvarez",
+ "customer_name": "Ananya Iyer",
+ "scenario": "dd_change",
+ "date": "2026-09-03 14:23",
+ "duration_sec": 163,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "good morning orion shield insurance how can i help you today",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hi i need to move my direct debit date because my salary date has changed and i'm worried about missing a payment again",
+   "t": 5.1
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "that sounds like a really tough few days let's get this sorted out for you before i ask for a few details i need to let you know that this call is recorded for quality and training purposes can i take your full name and date of birth please",
+   "t": 14.7
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "ananya iyer 11 june 1993",
+   "t": 34.2
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "um thank you and can you confirm your policy number or postcode",
+   "t": 36.6
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "um it's ak9 4qb",
+   "t": 41.9
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "thank you that's you verified",
+   "t": 44.2
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you'd like to move your direct debit date is that right",
+   "t": 47.3
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "yes exactly",
+   "t": 54.0
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "which date would you like to move it to",
+   "t": 56.1
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "the 28th if possible",
+   "t": 60.3
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "just so you know the change is subject to an underwriting review and a pro-rata premium adjustment with any mid-term amendment fee applied",
+   "t": 63.1
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "sorry i don't follow what does any of that mean",
+   "t": 72.9
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "uh it's all in the policy wording i'm afraid anyway let's move on",
+   "t": 77.3
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "while i'm on i missed last month's payment can i pay it now by card",
+   "t": 82.5
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "for your security i can't take card details over the phone i can transfer you to our automated secure payment line or you can pay through the online portal",
+   "t": 89.7
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "um the automated line is fine thanks",
+   "t": 102.0
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "so it definitely won't affect my payment record",
+   "t": 105.4
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "i guarantee it won't affect your record at all",
+   "t": 109.3
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "let me explain what happens here i can change the date but we need 5 working days' notice so the new date would apply from the collection after that",
+   "t": 114.2
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "okay that's good to know",
+   "t": 126.5
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "thanks ananya i've logged the change under reference req-29778 and our billing team will confirm the new date in writing",
+   "t": 129.5
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 137.7
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "just to recap i've requested the change to your direct debit date",
+   "t": 140.6
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "uh yes that's right",
+   "t": 146.7
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 148.9
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 153.6
+  },
+  {
+   "n": 28,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance have a good day",
+   "t": 156.5
+  },
+  {
+   "n": 29,
+   "speaker": "CUSTOMER",
+   "text": "thanks bye",
+   "t": 161.3
+  }
+ ],
+ "tags": [
+  "noisy_asr"
+ ]
+}

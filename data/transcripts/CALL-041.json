@@ -1,0 +1,174 @@
+{
+ "call_id": "CALL-041",
+ "agent_id": "AG03",
+ "agent_name": "Marcus Tan",
+ "customer_name": "Samuel Adeyemi",
+ "scenario": "cancellation_request",
+ "date": "2026-09-23 12:41",
+ "duration_sec": 159,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Good morning, Orion Shield Insurance, Marcus speaking. How may I help you?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I'd like to cancel my car policy. I found something cheaper and, frankly, I'm annoyed about the price rise. I'm worried I'll lose a lot of money.",
+   "t": 5.2
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Right. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Can I take your full name and date of birth, please?",
+   "t": 17.3
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Samuel Adeyemi, 20 December 1988.",
+   "t": 31.4
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you. And can you confirm your policy number or postcode?",
+   "t": 34.1
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "It's TK2 2ZF.",
+   "t": 39.1
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "Thank you, that's you verified.",
+   "t": 42.0
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Can I confirm which policy this is, car or home?",
+   "t": 45.2
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The car insurance.",
+   "t": 50.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 52.3
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Can you promise me this won't cost me anything extra?",
+   "t": 56.2
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "I can't promise how it will be priced, the system will calculate it and you'll get it in writing.",
+   "t": 60.6
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "Can't you just waive the fee? It seems unfair.",
+   "t": 68.5
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "I completely understand why that's frustrating, but I'm not able to make an exception, it's a fixed term of the policy. I'm happy to explain how it works if that helps.",
+   "t": 73.3
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Just so you know, the change is subject to an underwriting review and a pro-rata premium adjustment, with any mid-term amendment fee applied.",
+   "t": 85.6
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, I don't follow, what does any of that mean?",
+   "t": 95.9
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "It's all in the policy wording, I'm afraid. Anyway, let's move on.",
+   "t": 101.3
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. Since you took the policy out within the last 14 days, you're in the cooling-off period, so you'd get a full refund as long as no claim has been made.",
+   "t": 107.3
+  },
+  {
+   "n": 19,
+   "speaker": "CUSTOMER",
+   "text": "Right, I see.",
+   "t": 121.5
+  },
+  {
+   "n": 20,
+   "speaker": "AGENT",
+   "text": "Thanks, Samuel. I've logged your cancellation request under reference REQ-26172, and our policy services team will process it and confirm in writing.",
+   "t": 123.7
+  },
+  {
+   "n": 21,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 133.1
+  },
+  {
+   "n": 22,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've logged your cancellation request.",
+   "t": 135.9
+  },
+  {
+   "n": 23,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 139.9
+  },
+  {
+   "n": 24,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 142.4
+  },
+  {
+   "n": 25,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 147.7
+  },
+  {
+   "n": 26,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, Samuel. Have a good day!",
+   "t": 151.0
+  },
+  {
+   "n": 27,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 157.1
+  }
+ ],
+ "tags": []
+}

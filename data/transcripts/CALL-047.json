@@ -1,0 +1,158 @@
+{
+ "call_id": "CALL-047",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Imran Rahman",
+ "scenario": "dd_change",
+ "date": "2026-09-04 15:02",
+ "duration_sec": 149,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Priya. How can I help you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hi, I need to move my direct debit date because my salary date has changed, and I'm worried about missing a payment again. My policy number is OS-939033.",
+   "t": 7.7
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "I'm so sorry to hear that, that must be really stressful. Before I ask for a few details, I need to let you know that this call is recorded for quality and training purposes. Thank you, I've got that policy number. Can I take your full name as well, to verify?",
+   "t": 19.0
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Imran Rahman.",
+   "t": 40.1
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thank you, Imran, that's you verified.",
+   "t": 42.1
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you'd like to move your direct debit date. Is that right?",
+   "t": 45.5
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 52.9
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Which date would you like to move it to?",
+   "t": 55.4
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "The 28th if possible.",
+   "t": 60.4
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 63.2
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Honestly, this is ridiculous. Can I speak to a manager?",
+   "t": 67.9
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "I understand, and I'm sorry for the frustration. I can arrange for a supervisor to call you back within 24 hours, or log a formal complaint. Which would you prefer?",
+   "t": 73.1
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "A supervisor callback, please.",
+   "t": 85.2
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Just so you know, we may need to review the details, which can change your price slightly, and any difference is simply worked out for the part of the year that's left.",
+   "t": 87.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. I can change the date, but we need 5 working days' notice, so the new date would apply from the collection after that.",
+   "t": 101.2
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "Okay, that's good to know.",
+   "t": 113.1
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "Thanks, Imran. I've logged the change under reference REQ-75411, and our billing team will confirm the new date in writing.",
+   "t": 115.5
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 124.7
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've requested the change to your direct debit date.",
+   "t": 126.6
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 131.8
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 134.4
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 139.0
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 141.8
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 146.5
+  }
+ ],
+ "tags": [
+  "complaint"
+ ]
+}

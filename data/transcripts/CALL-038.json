@@ -1,0 +1,123 @@
+{
+ "call_id": "CALL-038",
+ "agent_id": "AG01",
+ "agent_name": "Priya Nair",
+ "customer_name": "Ananya Iyer",
+ "scenario": "dd_change",
+ "date": "2026-09-14 11:08",
+ "duration_sec": 111,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "uh thank you for calling orion shield insurance you're speaking with priya how can i help you today just so you know this call is recorded for training and quality purposes",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "hi i'm phoning for my husband he needs the direct debit date moving and i'm worried about him missing a payment",
+   "t": 13.0
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "that sounds like a really tough few days let's get this sorted out for you can i just check are you the policyholder",
+   "t": 21.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "no it's my husband's policy he's at work today so i said i'd call",
+   "t": 32.1
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "so if i've understood correctly you're calling for your husband to move a direct debit date is that right",
+   "t": 38.9
+  },
+  {
+   "n": 6,
+   "speaker": "CUSTOMER",
+   "text": "so yes exactly",
+   "t": 47.2
+  },
+  {
+   "n": 7,
+   "speaker": "AGENT",
+   "text": "thank you for calling on his behalf i'm sorry but i can only discuss a policy with the policyholder or a named authorised person if he calls us directly or gives consent to add you we'll be glad to help",
+   "t": 49.4
+  },
+  {
+   "n": 8,
+   "speaker": "CUSTOMER",
+   "text": "uh okay i understand",
+   "t": 65.6
+  },
+  {
+   "n": 9,
+   "speaker": "AGENT",
+   "text": "um let me explain what happens here in general a direct debit date change needs 5 working days' notice",
+   "t": 68.5
+  },
+  {
+   "n": 10,
+   "speaker": "CUSTOMER",
+   "text": "right i see",
+   "t": 75.9
+  },
+  {
+   "n": 11,
+   "speaker": "AGENT",
+   "text": "uh thanks ananya i've logged a note under reference req-18508 and our billing team will contact him to arrange this",
+   "t": 77.8
+  },
+  {
+   "n": 12,
+   "speaker": "CUSTOMER",
+   "text": "okay thank you",
+   "t": 86.0
+  },
+  {
+   "n": 13,
+   "speaker": "AGENT",
+   "text": "so just to recap i've requested the change to your direct debit date",
+   "t": 89.1
+  },
+  {
+   "n": 14,
+   "speaker": "CUSTOMER",
+   "text": "yes that's right",
+   "t": 94.7
+  },
+  {
+   "n": 15,
+   "speaker": "AGENT",
+   "text": "is there anything else i can help you with today",
+   "t": 97.0
+  },
+  {
+   "n": 16,
+   "speaker": "CUSTOMER",
+   "text": "no that's everything thank you",
+   "t": 101.5
+  },
+  {
+   "n": 17,
+   "speaker": "AGENT",
+   "text": "thank you for calling orion shield insurance have a good day",
+   "t": 104.4
+  },
+  {
+   "n": 18,
+   "speaker": "CUSTOMER",
+   "text": "um thanks bye",
+   "t": 109.6
+  }
+ ],
+ "tags": [
+  "noisy_asr",
+  "third_party"
+ ]
+}

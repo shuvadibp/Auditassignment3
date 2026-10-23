@@ -1,0 +1,180 @@
+{
+ "call_id": "CALL-020",
+ "agent_id": "AG06",
+ "agent_name": "Hannah Schmidt",
+ "customer_name": "Tomas Herrera",
+ "scenario": "motor_claim",
+ "date": "2026-09-07 11:18",
+ "duration_sec": 155,
+ "turns": [
+  {
+   "n": 1,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance, you're speaking with Hannah. How can I help you today?",
+   "t": 0.0
+  },
+  {
+   "n": 2,
+   "speaker": "CUSTOMER",
+   "text": "Hello, someone reversed into my parked car and drove off. I'm really upset, the car is practically new.",
+   "t": 7.3
+  },
+  {
+   "n": 3,
+   "speaker": "AGENT",
+   "text": "Ah, that sounds really frustrating. Let's see what we can do. Can I take your name, please?",
+   "t": 14.8
+  },
+  {
+   "n": 4,
+   "speaker": "CUSTOMER",
+   "text": "Tomas Herrera.",
+   "t": 22.8
+  },
+  {
+   "n": 5,
+   "speaker": "AGENT",
+   "text": "Thanks, I've got your policy up now.",
+   "t": 25.0
+  },
+  {
+   "n": 6,
+   "speaker": "AGENT",
+   "text": "So, if I've understood correctly, you've had an accident in your car and you'd like to make a claim. Is that right?",
+   "t": 28.4
+  },
+  {
+   "n": 7,
+   "speaker": "CUSTOMER",
+   "text": "Yes, exactly.",
+   "t": 37.9
+  },
+  {
+   "n": 8,
+   "speaker": "AGENT",
+   "text": "Could you tell me exactly what happened, and when it happened?",
+   "t": 39.9
+  },
+  {
+   "n": 9,
+   "speaker": "CUSTOMER",
+   "text": "It was yesterday around half five, on the ring road near the retail park. A van pulled out and hit the side of my car.",
+   "t": 45.1
+  },
+  {
+   "n": 10,
+   "speaker": "AGENT",
+   "text": "Thank you. Was anyone injured, and how extensive is the damage?",
+   "t": 55.7
+  },
+  {
+   "n": 11,
+   "speaker": "CUSTOMER",
+   "text": "Thankfully nobody was hurt, but the passenger door and wing are badly dented and it's not really drivable.",
+   "t": 61.5
+  },
+  {
+   "n": 12,
+   "speaker": "AGENT",
+   "text": "Can I confirm the registration number of the vehicle?",
+   "t": 69.3
+  },
+  {
+   "n": 13,
+   "speaker": "CUSTOMER",
+   "text": "It's MY22 RCK.",
+   "t": 73.5
+  },
+  {
+   "n": 14,
+   "speaker": "AGENT",
+   "text": "Thanks, I've recorded all of that on your file.",
+   "t": 76.4
+  },
+  {
+   "n": 15,
+   "speaker": "CUSTOMER",
+   "text": "Will my claim definitely be approved, do you think?",
+   "t": 80.4
+  },
+  {
+   "n": 16,
+   "speaker": "AGENT",
+   "text": "I can't promise an outcome as the claims team assesses every claim, but this is the kind of event your policy is designed for.",
+   "t": 84.3
+  },
+  {
+   "n": 17,
+   "speaker": "CUSTOMER",
+   "text": "Sorry, are you recording this call?",
+   "t": 94.1
+  },
+  {
+   "n": 18,
+   "speaker": "AGENT",
+   "text": "Yes, all our calls are recorded for quality and training.",
+   "t": 97.0
+  },
+  {
+   "n": 19,
+   "speaker": "AGENT",
+   "text": "Let me explain what happens here. What happens next is that we'll acknowledge your claim within 24 hours, and the claims team will assess it within 10 working days of receiving all your supporting documents.",
+   "t": 101.4
+  },
+  {
+   "n": 20,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 115.3
+  },
+  {
+   "n": 21,
+   "speaker": "AGENT",
+   "text": "Thanks, Mr Herrera. I've logged your claim under reference CLM-11505, and the claims team will contact you to take things forward.",
+   "t": 118.1
+  },
+  {
+   "n": 22,
+   "speaker": "CUSTOMER",
+   "text": "Okay, thank you.",
+   "t": 127.2
+  },
+  {
+   "n": 23,
+   "speaker": "AGENT",
+   "text": "Just to recap, i've taken the details of your claim and passed it to the claims team.",
+   "t": 129.1
+  },
+  {
+   "n": 24,
+   "speaker": "CUSTOMER",
+   "text": "Yes, that's right.",
+   "t": 136.7
+  },
+  {
+   "n": 25,
+   "speaker": "AGENT",
+   "text": "Is there anything else I can help you with today?",
+   "t": 139.1
+  },
+  {
+   "n": 26,
+   "speaker": "CUSTOMER",
+   "text": "No, that's everything, thank you.",
+   "t": 144.0
+  },
+  {
+   "n": 27,
+   "speaker": "AGENT",
+   "text": "Thank you for calling Orion Shield Insurance. Have a good day!",
+   "t": 146.9
+  },
+  {
+   "n": 28,
+   "speaker": "CUSTOMER",
+   "text": "Thanks, bye.",
+   "t": 152.7
+  }
+ ],
+ "tags": []
+}

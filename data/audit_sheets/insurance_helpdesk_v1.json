@@ -1,0 +1,208 @@
+{
+ "sheet_id": "insurance_helpdesk_v1",
+ "title": "Insurance Help Desk Quality Audit",
+ "version": "1.0",
+ "pass_mark": 80.0,
+ "questions": [
+  {
+   "qid": "A1",
+   "section": "Opening & Greeting",
+   "text": "Did the agent open with a greeting that includes BOTH the company name and the agent's own name?",
+   "weight": 1,
+   "critical": false,
+   "region": "opening",
+   "guidance": "YES only if company name AND the agent's own name are both stated in the opening. Missing either one = NO.",
+   "nli_hypothesis": "The agent greets the customer and says their name and the company name."
+  },
+  {
+   "qid": "B1",
+   "section": "Communication & Empathy",
+   "text": "When the customer described their problem or worry, did the agent acknowledge the feeling or difficulty with an empathetic statement?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "Empathy = acknowledges the feeling/difficulty ('that sounds stressful', 'sorry you've had to deal with this'). An apology for process ('sorry, I need to take details'), 'understood' or a procedural reply is NOT empathy.",
+   "nli_hypothesis": "The agent expresses empathy for the customer's situation."
+  },
+  {
+   "qid": "B2",
+   "section": "Communication & Empathy",
+   "text": "Did the agent address the customer by name (first name or title+surname) at least once?",
+   "weight": 1,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "YES if any AGENT turn uses the customer's name. The customer saying their own name does not count.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "B3",
+   "section": "Communication & Empathy",
+   "text": "Did the agent stay polite throughout - no rude, sarcastic, blaming or dismissive language?",
+   "weight": 2,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if any agent turn is rude, sarcastic, blames the customer or is dismissive ('As I already said...', 'you should have read the policy'). Firm but courteous refusals are YES.",
+   "nli_hypothesis": "The agent is rude or dismissive towards the customer."
+  },
+  {
+   "qid": "B4",
+   "section": "Communication & Empathy",
+   "text": "Did the agent avoid unexplained insurance jargon?",
+   "weight": 1,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NO if the agent uses insurance jargon (subrogation, indemnity, underwriting review, pro-rata adjustment, excess...) WITHOUT explaining it. YES if no jargon or every term is explained in plain words.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "B5",
+   "section": "Communication & Empathy",
+   "text": "Did the agent confirm understanding of the issue (paraphrase) without making the customer repeat information already given?",
+   "weight": 1,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "YES if the agent restates the customer's issue to confirm understanding AND never asks the customer to repeat/re-explain what they clearly said. NO if they ask to repeat or never confirm understanding.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "C1",
+   "section": "Identity & Security",
+   "text": "Before discussing policy details, did the agent verify the CALLER's identity with at least two identifiers (full name, DOB, policy number, postcode)?",
+   "weight": 3,
+   "critical": true,
+   "region": "opening",
+   "guidance": "Identifiers volunteered by the customer count if the agent used them to verify. NO if fewer than two, or if verification happens AFTER policy details were disclosed or was skipped. NA if the caller is not the policyholder and the agent stops at the identity step without disclosing anything.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "C2",
+   "section": "Identity & Security",
+   "text": "If the caller was not the policyholder, did the agent refuse to disclose policy details?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NA if the caller is the policyholder. NO if policy details are disclosed to a third party, even if the caller recites the policyholder's DOB/postcode.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D1",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent tell the customer the call is recorded in the opening, before identity checks or discussing the issue?",
+   "weight": 3,
+   "critical": true,
+   "region": "opening",
+   "guidance": "NO if missing, said late (after identity checks / mid-call), or only when the customer asks. Saying 'I've recorded your details' is NOT a recording disclosure.",
+   "nli_hypothesis": "The agent says the call is being recorded."
+  },
+  {
+   "qid": "D2",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent avoid promising or guaranteeing claim approval, payout or pricing outcomes?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if the agent guarantees/promises an outcome decided by another team (claim approved, full payout, price unchanged, compensation). Saying 'I can't promise...' is YES.",
+   "nli_hypothesis": "The agent guarantees the claim will be approved."
+  },
+  {
+   "qid": "D4",
+   "section": "Regulatory Compliance",
+   "text": "If the customer complained or asked for a manager, did the agent offer the escalation route (supervisor callback or formal complaint)?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if no complaint/escalation request. 'I'll pass your feedback on' is NOT enough - must offer a supervisor callback or formal complaint.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D5",
+   "section": "Regulatory Compliance",
+   "text": "If the customer showed vulnerability, did the agent acknowledge it AND adapt/offer support?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if no sign of vulnerability. Sympathy alone is NO; need acknowledgement plus adaptation (slower pace, written confirmation, callback, priority support team).",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "D6",
+   "section": "Regulatory Compliance",
+   "text": "Did the agent avoid asking for prohibited sensitive data (full card number, CVV, PIN, password)?",
+   "weight": 3,
+   "critical": true,
+   "region": "anywhere",
+   "guidance": "NO if the agent asks for or accepts any of them. Redirecting to the automated secure payment line is YES.",
+   "nli_hypothesis": "The agent asks the customer for their card number or password."
+  },
+  {
+   "qid": "E1",
+   "section": "Process & Resolution",
+   "text": "For claim calls: did the agent obtain when it happened, what happened, and any injuries/extent of damage?",
+   "weight": 2,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if not a new-claim call. YES only if all three were obtained.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "E2",
+   "section": "Process & Resolution",
+   "text": "Did the agent state a specific next step with an owner AND a reference number or time frame?",
+   "weight": 2,
+   "critical": false,
+   "region": "closing",
+   "guidance": "NO if vague ('someone will get back to you') or owner without reference/time frame.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "E3",
+   "section": "Process & Resolution",
+   "text": "If the customer was put on hold, did the agent ask permission first and thank them on return?",
+   "weight": 1,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "NA if no hold. Both permission AND thanks are required.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "E4",
+   "section": "Process & Resolution",
+   "text": "Were policy facts stated by the agent (timelines, fees, excess, limits) consistent with the knowledge base?",
+   "weight": 3,
+   "critical": false,
+   "region": "anywhere",
+   "guidance": "Compare every number the agent states with the knowledge base. Any mismatch = NO.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "F1",
+   "section": "Closing",
+   "text": "Did the agent recap the actions agreed before ending the call?",
+   "weight": 1,
+   "critical": false,
+   "region": "closing",
+   "guidance": "YES if the closing includes a short recap of what was done / will happen.",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "F2",
+   "section": "Closing",
+   "text": "Did the agent ask whether there was anything else they could help with?",
+   "weight": 1,
+   "critical": false,
+   "region": "closing",
+   "guidance": "",
+   "nli_hypothesis": null
+  },
+  {
+   "qid": "F3",
+   "section": "Closing",
+   "text": "Did the agent close courteously with thanks and a sign-off?",
+   "weight": 1,
+   "critical": false,
+   "region": "closing",
+   "guidance": "NO if abrupt ('okay, bye then') or the agent never signs off.",
+   "nli_hypothesis": null
+  }
+ ]
+}
