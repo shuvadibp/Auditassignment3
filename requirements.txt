@@ -1,0 +1,12 @@
+streamlit>=1.36
+pandas>=2.1
+numpy
+openpyxl
+python-dotenv
+anthropic          # Claude API
+openai             # OpenAI API
+# --- only for local SLMs (Kaggle already has torch + transformers) ---
+transformers>=4.44
+accelerate
+bitsandbytes       # 4-bit quantisation (GPU only)
+# optional: pyngrok  (alternative tunnel on Kaggle)
